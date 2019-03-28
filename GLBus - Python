@@ -7,7 +7,7 @@ vagasDisp = [40,40,40,40,40,40,40,40,40]
 
 ##vagasOcup = ['O']*40
 ##vagasOcup = {1: 'O'*40,2: 'O'*40,3: 'O'*40,4: 'O'*40,5: 'O'*40,6: 'O'*40,7: 'O'*40,8: 'O'*40,9: 'O'*40}
-##print(vagasOcup)
+##print(vagasOcup) 
 
 ##def getVagas():
 ##    consultaTodasRotas()
